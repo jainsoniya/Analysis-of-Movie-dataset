@@ -1,4 +1,6 @@
-In this project, I am going to analyze the Imdb Movie dataset. This dataset includes various variables which I grouped into following buckets:
+Hi Folks, 
+
+This is my 1st project where I am going to analyze the Imdb Movie dataset. This dataset includes various variables which I grouped into following buckets:
 1.	Individual variables: Title, Genre and Production Company
 2.	Income variables- Budget and Revenue
 3.	Popularity variables- Populartiy, Vote_count and Vote_average
@@ -21,3 +23,4 @@ You can see my analysis in *movie_datset_sql_queries.sql* and *results_of_analys
 
 I also repeated the above process Python (wrangling, exploratory data analysis and visual communications). Please refer *analysis_of_movie_dataset_using_python.ipynb* file to see my analysis in Python.
 
+In coming days, I will continue to analyse this dataset to find the correlation between popular genres and profitable companies. So, stay tuned!
