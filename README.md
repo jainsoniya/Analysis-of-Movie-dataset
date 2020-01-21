@@ -1,6 +1,4 @@
-Hi Folks, 
-
-This is my 1st project where I am going to analyze the Imdb Movie dataset. This dataset includes various variables which I grouped into following buckets:
+I am going to analyze the Imdb Movie dataset. This dataset includes various variables which I grouped into following buckets:
 1.	Individual variables: Title, Genre and Production Company
 2.	Income variables- Budget and Revenue
 3.	Popularity variables- Populartiy, Vote_count and Vote_average
