@@ -17,8 +17,8 @@ I did my analysis in following pattern:
 1.	Used SQL to extract, transform and load data into csv file.
 2.	Connected csv file to Tableau to perform visual analysis.
 
-You can see my analysis in *movie_datset_sql_queries.sql* and *results_of_analysis_using_tableau.pdf* files
+You can see my analysis in [movie_datset_sql_queries.sql](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/movie_dataset_sql_queries%20.sql) and [movie_dataset](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/movie%20dataset.twbx) or [tableau public link](https://public.tableau.com/profile/soniya4758#!/vizhome/moviedataset_15880189447430/Story1) 
 
-I also repeated the above process Python (wrangling, exploratory data analysis and visual communications). Please refer *analysis_of_movie_dataset_using_python.ipynb* file to see my analysis in Python.
+I also repeated the above process Python (wrangling, exploratory data analysis and visual communications). Please refer [analysis_of_movie_dataset_using_python.ipynb](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/analysis_of_movie_dataset_using_python.ipynb) file to see my analysis in Python.
 
-In coming days, I will continue to analyse this dataset to find the correlation between popular genres and profitable companies. So, stay tuned!
+
