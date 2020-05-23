@@ -19,6 +19,6 @@ I did my analysis in following pattern:
 
 You can see my analysis in [movie_datset_sql_queries.sql](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/movie_dataset_sql_queries%20.sql) and [movie_dataset](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/movie%20dataset.twbx) or [tableau public link](https://public.tableau.com/profile/soniya4758#!/vizhome/moviedataset_15880189447430/Story1) 
 
-I also repeated the above process Python (wrangling, exploratory data analysis and visual communications). Please refer [analysis_of_movie_dataset_using_python.ipynb](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/analysis_of_movie_dataset_using_python.ipynb) file to see my analysis in Python.
+I also repeated the above process in Python (wrangling, exploratory data analysis and visual communications). Please refer [analysis_of_movie_dataset_using_python.ipynb](https://github.com/jainsoniya/Analysis-of-Movie-dataset/blob/master/analysis_of_movie_dataset_using_python.ipynb) file to see my analysis in Python.
 
 
